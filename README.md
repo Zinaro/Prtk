@@ -5,5 +5,6 @@ Tiştê komîk ew e ku min repoyê bi lîsansa gnu lîsans kir lê hemû dosya b
 
 ## CRYPT
 
-`ccrypt file.name`
-`ccrypt -d file.name`
+`ccrypt filename.znr`
+
+`ccrypt -d filename.znr`
